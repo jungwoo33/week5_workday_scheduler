@@ -12,7 +12,7 @@ This code includes following codes:
 Note: All previous versions are stored: ./old_codes; I am keeping old files to show the progress.
 
 ## 4. Application results:
-Live URL: 
+Live URL: https://jungwoo33.github.io/week5_workday_scheduler/
 
 ![App demo](./assets/project_description_v1.gif)
 
